@@ -1,0 +1,43 @@
+# Ignore system files and directories
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific and system-wide directories
+/Application Data/
+/Cookies/
+/Documents/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+/AppData/
+/Contacts/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/OneDrive/
+/Saved Games/
+/Searches/
+/Videos/
+
+# Ignore IDE and editor specific files
+/.idea/
+/.vscode/
+
+# Ignore various user and temporary files
+*.log
+*.tmp
+*.swp
+ntuser.dat
+ntuser.dat.log1
+ntuser.dat.log2
+ntuser.dat{*}.TM.blf
+ntuser.dat{*}.TMContainer*.regtrans-ms
+
+git add .gitignore
+
